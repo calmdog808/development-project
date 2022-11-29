@@ -1,0 +1,110 @@
+[
+  {
+    "name": "oatmeal chocolate chip cookie",
+    "description": "yummy chocolate chip cookies",
+    "price": 1.99,
+    "category": "baked good",
+    "allergen": ["nut-free"],
+    "image": "images/occ.png",
+    "rank": 1
+  },
+  {
+    "name": "pandan kouign aman",
+    "description": "sweet and buttery with a hint of pandan",
+    "price": 4.99,
+    "category": "baked good",
+    "allergen": ["nut-free"],
+    "image": "images/pka.png",
+    "rank": 2
+  },
+  {
+    "name": "maple honey pecan pie",
+    "description": "the best pie ever",
+    "price": 3.99,
+    "category": "baked good",
+    "allergen": [],
+    "image": "images/mhpp.png",
+    "rank": 7
+  },
+  {
+    "name": "cold brew",
+    "description": "slow steeped and ultra-strong",
+    "price": 5.99,
+    "category": "drink",
+    "allergen": ["dairy-free", "gluten-free", "nut-free"],
+    "image": "images/cb.png",
+    "rank": 3
+  },
+  {
+    "name": "baklava croissant",
+    "description": "honey and pistachio stuffed croissant",
+    "price": 4.99,
+    "category": "baked good",
+    "allergen": [],
+    "image": "images/bc.jpg",
+    "rank": 8
+  },
+  {
+    "name": "corn cornbread",
+    "description": "moist and corn-stuffed cornbread",
+    "price": 2.99,
+    "category": "baked good",
+    "allergen": ["nut-free"],
+    "image": "images/cc.png",
+    "rank": 12
+  },
+  {
+    "name": "sour cream and onion biscuit",
+    "description": "the classic chip made better in a biscuit",
+    "price": 2.99,
+    "category": "baked good",
+    "allergen": ["nut-free"],
+    "image": "images/sob.png",
+    "rank": 11
+  },
+  {
+    "name": "berry cream cake",
+    "description": "light, fruity indulgence",
+    "price": 3.99,
+    "category": "baked good",
+    "allergen": ["nut-free"],
+    "image": "images/bcc.png",
+    "rank": 4
+  },
+  {
+    "name": "mint matcha",
+    "description": "earthy and bright",
+    "price": 5.99,
+    "category": "drink",
+    "allergen": ["dairy-free", "gluten-free", "nut-free"],
+    "image": "images/mm.png",
+    "rank": 9
+  },
+  {
+    "name": "key lime pie ice cream",
+    "description": "key lime ice cream swirled with graham crackers",
+    "price": 3.99,
+    "category": "ice cream",
+    "allergen": ["nut-free"],
+    "image": "images/klpic.png",
+    "rank": 5
+  },
+  {
+    "name": "santa's cookies ice cream",
+    "description": "sweet cream ice cream with christmas cookie chunks",
+    "price": 3.99,
+    "category": "ice cream",
+    "allergen": ["nut-free"],
+    "image": "images/scic.png",
+    "rank": 10
+  },
+  {
+    "name": "burnt black sesame cheesecake",
+    "description": "nutty sesame flavored basque cheesecake",
+    "price": 7.99,
+    "category": "baked good",
+    "allergen": ["gluten-free", "nut-free"],
+    "image": "images/bsc.png",
+    "rank": 6
+  }
+]
